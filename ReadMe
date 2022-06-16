@@ -1,0 +1,9 @@
+Araba Kayıt Otomasyonu
+
+Ana menü'de bulunan 4 seçenekli bir çalışma prensibine dayanır.
+ Kullanıcı Tc numarası ile kayıt oluşturabilmektedir.
+ Kullanıcı kayıt oluşuturmadan diğer işlemleri yapamaz.
+ Kayıt oluşturulduktan sonra satın almak istediği araba markasını 1 - 6 rakamları arasında bulunan tuşlardan biri ile gerçekleştirebilmektedir.
+ Kullanıcı alacağı arabayı seçtikten sonra klavyeden istediği rengi yazabilmektedir.
+ Kullanıcı araba rengini seçtikten sonra arabanın kaç model olduğunu ve kaç tane alacağını klavyeden girebilmektedir.
+ En sonunda aldığı arabaları özelliklerine göre listeleyebilmektedir.
